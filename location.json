@@ -1,0 +1,138 @@
+{
+    "ip": "41.223.117.68",
+    "type": "IPv4",
+    "hostname": null,
+    "carrier": {
+        "name": null,
+        "mcc": null,
+        "mnc": null
+    },
+    "connection": {
+        "asn": 36962,
+        "domain": "mtnzambia.co.zm",
+        "organization": "MTN Zambia",
+        "route": "41.223.117.0/24",
+        "type": "isp"
+    },
+    "currency": {
+        "code": "ZMW",
+        "name": "Zambian Kwacha",
+        "name_native": "Zambian Kwacha",
+        "plural": "Zambian kwachas",
+        "plural_native": "Zambian kwachas",
+        "symbol": "ZMW",
+        "symbol_native": "K",
+        "format": {
+            "negative": {
+                "prefix": "-K",
+                "suffix": ""
+            },
+            "positive": {
+                "prefix": "K",
+                "suffix": ""
+            }
+        }
+    },
+    "location": {
+        "continent": {
+            "code": "AF",
+            "name": "Africa"
+        },
+        "country": {
+            "area": 752614,
+            "borders": [
+                "AO",
+                "BW",
+                "CD",
+                "MW",
+                "MZ",
+                "NA",
+                "TZ",
+                "ZW"
+            ],
+            "calling_code": "260",
+            "capital": "Lusaka",
+            "code": "ZM",
+            "name": "Zambia",
+            "population": 18383956,
+            "population_density": 24.43,
+            "flag": {
+                "emoji": "\ud83c\uddff\ud83c\uddf2",
+                "emoji_unicode": "U+1F1FF U+1F1F2",
+                "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/zm.svg",
+                "noto": "https://cdn.ipregistry.co/flags/noto/zm.png",
+                "twemoji": "https://cdn.ipregistry.co/flags/twemoji/zm.svg",
+                "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/zm.svg"
+            },
+            "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "native": "English"
+                },
+                {
+                    "code": "ny",
+                    "name": "Nyanja",
+                    "native": "Nyanja"
+                }
+            ],
+            "tld": ".zm"
+        },
+        "region": {
+            "code": "ZM-09",
+            "name": "Lusaka"
+        },
+        "city": "Lusaka",
+        "postal": null,
+        "latitude": -15.41832,
+        "longitude": 28.28708,
+        "language": {
+            "code": "en",
+            "name": "English",
+            "native": "English"
+        },
+        "in_eu": false
+    },
+    "security": {
+        "is_bogon": false,
+        "is_cloud_provider": false,
+        "is_tor": false,
+        "is_tor_exit": false,
+        "is_proxy": false,
+        "is_anonymous": false,
+        "is_abuser": true,
+        "is_attacker": false,
+        "is_threat": true
+    },
+    "time_zone": {
+        "id": "Africa/Lusaka",
+        "abbreviation": "CAT",
+        "current_time": "2021-09-13T19:15:53+02:00",
+        "name": "Central Africa Time",
+        "offset": 7200,
+        "in_daylight_saving": false
+    },
+    "user_agent": {
+        "header": "Ipregistry/Python3/3.0.0",
+        "name": "Ipregistry",
+        "type": "special",
+        "version": "Python3",
+        "version_major": "Python3",
+        "device": {
+            "brand": null,
+            "name": null,
+            "type": null
+        },
+        "engine": {
+            "name": null,
+            "type": null,
+            "version": null,
+            "version_major": null
+        },
+        "os": {
+            "name": null,
+            "type": null,
+            "version": null
+        }
+    }
+}
