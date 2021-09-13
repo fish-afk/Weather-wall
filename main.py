@@ -54,8 +54,8 @@ List_of_warm_files = []  # same for the Warm folder
 
 """Gets all the files in the cool and warm walls dir and stored them in a list"""
 
-List_of_cool_files.append(os.listdir(f"C:/Users/{user}/Desktop/WeatherWall/walls/Cool"))
-List_of_warm_files.append(os.listdir(f"C:/Users/{user}/Desktop/WeatherWall/walls/Warm"))
+List_of_cool_files.append(os.listdir(f"{DRIVE_LETTER.upper()}:/Users/{user}/Desktop/WeatherWall/walls/Cool"))
+List_of_warm_files.append(os.listdir(f"{DRIVE_LETTER.upper()}:/Users/{user}/Desktop/WeatherWall/walls/Warm"))
 
 print(f"Warm dir --> {List_of_warm_files}")
 print(f"Cool dir --> {List_of_cool_files}")
