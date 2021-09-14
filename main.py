@@ -132,7 +132,7 @@ def get_the_temp_now(filename, mode):
     dict_format = dict(all_temperatures)
 
     # getting the main temperature that matters at the current time the most
-    main_temperature = 1
+    main_temperature = dict_format["data"]["timelines"][0]["intervals"][3]["values"]["temperature"]
 
     return main_temperature
 
