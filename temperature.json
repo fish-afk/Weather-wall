@@ -1,0 +1,667 @@
+{
+   "data": {
+      "timelines": [
+         {
+            "timestep": "1h",
+            "startTime": "2021-09-14T04:00:00Z",
+            "endTime": "2021-09-18T16:00:00Z",
+            "intervals": [
+               {
+                  "startTime": "2021-09-14T04:00:00Z",
+                  "values": {
+                     "temperature": 18.19
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T05:00:00Z",
+                  "values": {
+                     "temperature": 18.88
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T06:00:00Z",
+                  "values": {
+                     "temperature": 20.29
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T07:00:00Z",
+                  "values": {
+                     "temperature": 22.28
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T08:00:00Z",
+                  "values": {
+                     "temperature": 25.09
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T09:00:00Z",
+                  "values": {
+                     "temperature": 27.98
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T10:00:00Z",
+                  "values": {
+                     "temperature": 28.92
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T11:00:00Z",
+                  "values": {
+                     "temperature": 29.85
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T12:00:00Z",
+                  "values": {
+                     "temperature": 30.33
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T13:00:00Z",
+                  "values": {
+                     "temperature": 30.66
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T14:00:00Z",
+                  "values": {
+                     "temperature": 30.66
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T15:00:00Z",
+                  "values": {
+                     "temperature": 29.35
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T16:00:00Z",
+                  "values": {
+                     "temperature": 26.21
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T17:00:00Z",
+                  "values": {
+                     "temperature": 24.82
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T18:00:00Z",
+                  "values": {
+                     "temperature": 24.21
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T19:00:00Z",
+                  "values": {
+                     "temperature": 22.99
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T20:00:00Z",
+                  "values": {
+                     "temperature": 22.24
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T21:00:00Z",
+                  "values": {
+                     "temperature": 21.85
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T22:00:00Z",
+                  "values": {
+                     "temperature": 21.52
+                  }
+               },
+               {
+                  "startTime": "2021-09-14T23:00:00Z",
+                  "values": {
+                     "temperature": 21.17
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T00:00:00Z",
+                  "values": {
+                     "temperature": 20.88
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T01:00:00Z",
+                  "values": {
+                     "temperature": 20.53
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T02:00:00Z",
+                  "values": {
+                     "temperature": 20.46
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T03:00:00Z",
+                  "values": {
+                     "temperature": 20.19
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T04:00:00Z",
+                  "values": {
+                     "temperature": 19.72
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T05:00:00Z",
+                  "values": {
+                     "temperature": 20.78
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T06:00:00Z",
+                  "values": {
+                     "temperature": 23.41
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T07:00:00Z",
+                  "values": {
+                     "temperature": 25.8
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T08:00:00Z",
+                  "values": {
+                     "temperature": 28.23
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T09:00:00Z",
+                  "values": {
+                     "temperature": 30.05
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T10:00:00Z",
+                  "values": {
+                     "temperature": 31.18
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T11:00:00Z",
+                  "values": {
+                     "temperature": 31.94
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T12:00:00Z",
+                  "values": {
+                     "temperature": 32.5
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T13:00:00Z",
+                  "values": {
+                     "temperature": 32.63
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T14:00:00Z",
+                  "values": {
+                     "temperature": 32.05
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T15:00:00Z",
+                  "values": {
+                     "temperature": 30.62
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T16:00:00Z",
+                  "values": {
+                     "temperature": 27.91
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T17:00:00Z",
+                  "values": {
+                     "temperature": 26.17
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T18:00:00Z",
+                  "values": {
+                     "temperature": 25.11
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T19:00:00Z",
+                  "values": {
+                     "temperature": 23.96
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T20:00:00Z",
+                  "values": {
+                     "temperature": 23.22
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T21:00:00Z",
+                  "values": {
+                     "temperature": 22.31
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T22:00:00Z",
+                  "values": {
+                     "temperature": 21.8
+                  }
+               },
+               {
+                  "startTime": "2021-09-15T23:00:00Z",
+                  "values": {
+                     "temperature": 21.39
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T00:00:00Z",
+                  "values": {
+                     "temperature": 20.42
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T01:00:00Z",
+                  "values": {
+                     "temperature": 20.4
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T02:00:00Z",
+                  "values": {
+                     "temperature": 20.12
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T03:00:00Z",
+                  "values": {
+                     "temperature": 19.8
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T04:00:00Z",
+                  "values": {
+                     "temperature": 19.76
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T05:00:00Z",
+                  "values": {
+                     "temperature": 21.42
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T06:00:00Z",
+                  "values": {
+                     "temperature": 24.28
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T07:00:00Z",
+                  "values": {
+                     "temperature": 26.85
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T08:00:00Z",
+                  "values": {
+                     "temperature": 29.36
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T09:00:00Z",
+                  "values": {
+                     "temperature": 31.36
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T10:00:00Z",
+                  "values": {
+                     "temperature": 32.78
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T11:00:00Z",
+                  "values": {
+                     "temperature": 33.5
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T12:00:00Z",
+                  "values": {
+                     "temperature": 33.83
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T13:00:00Z",
+                  "values": {
+                     "temperature": 33.77
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T14:00:00Z",
+                  "values": {
+                     "temperature": 33.25
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T15:00:00Z",
+                  "values": {
+                     "temperature": 31.97
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T16:00:00Z",
+                  "values": {
+                     "temperature": 29.12
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T17:00:00Z",
+                  "values": {
+                     "temperature": 27.75
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T18:00:00Z",
+                  "values": {
+                     "temperature": 26.66
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T19:00:00Z",
+                  "values": {
+                     "temperature": 25.07
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T20:00:00Z",
+                  "values": {
+                     "temperature": 23.93
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T21:00:00Z",
+                  "values": {
+                     "temperature": 23.35
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T22:00:00Z",
+                  "values": {
+                     "temperature": 22.91
+                  }
+               },
+               {
+                  "startTime": "2021-09-16T23:00:00Z",
+                  "values": {
+                     "temperature": 22.53
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T00:00:00Z",
+                  "values": {
+                     "temperature": 22.19
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T01:00:00Z",
+                  "values": {
+                     "temperature": 21.7
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T02:00:00Z",
+                  "values": {
+                     "temperature": 21.15
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T03:00:00Z",
+                  "values": {
+                     "temperature": 21.12
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T04:00:00Z",
+                  "values": {
+                     "temperature": 20.93
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T05:00:00Z",
+                  "values": {
+                     "temperature": 22.82
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T06:00:00Z",
+                  "values": {
+                     "temperature": 26.13
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T07:00:00Z",
+                  "values": {
+                     "temperature": 28.79
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T08:00:00Z",
+                  "values": {
+                     "temperature": 31.14
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T09:00:00Z",
+                  "values": {
+                     "temperature": 33.05
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T10:00:00Z",
+                  "values": {
+                     "temperature": 34.34
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T11:00:00Z",
+                  "values": {
+                     "temperature": 35.69
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T12:00:00Z",
+                  "values": {
+                     "temperature": 36.6
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T13:00:00Z",
+                  "values": {
+                     "temperature": 36.65
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T14:00:00Z",
+                  "values": {
+                     "temperature": 35.92
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T15:00:00Z",
+                  "values": {
+                     "temperature": 34.66
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T16:00:00Z",
+                  "values": {
+                     "temperature": 31.61
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T17:00:00Z",
+                  "values": {
+                     "temperature": 29.63
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T18:00:00Z",
+                  "values": {
+                     "temperature": 28.17
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T19:00:00Z",
+                  "values": {
+                     "temperature": 26.85
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T20:00:00Z",
+                  "values": {
+                     "temperature": 25.6
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T21:00:00Z",
+                  "values": {
+                     "temperature": 24.97
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T22:00:00Z",
+                  "values": {
+                     "temperature": 24.67
+                  }
+               },
+               {
+                  "startTime": "2021-09-17T23:00:00Z",
+                  "values": {
+                     "temperature": 25.27
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T00:00:00Z",
+                  "values": {
+                     "temperature": 24.95
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T01:00:00Z",
+                  "values": {
+                     "temperature": 25.25
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T02:00:00Z",
+                  "values": {
+                     "temperature": 24.51
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T03:00:00Z",
+                  "values": {
+                     "temperature": 23.65
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T04:00:00Z",
+                  "values": {
+                     "temperature": 22.79
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T05:00:00Z",
+                  "values": {
+                     "temperature": 22.95
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T06:00:00Z",
+                  "values": {
+                     "temperature": 25
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T07:00:00Z",
+                  "values": {
+                     "temperature": 27.41
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T08:00:00Z",
+                  "values": {
+                     "temperature": 29.57
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T09:00:00Z",
+                  "values": {
+                     "temperature": 31.09
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T10:00:00Z",
+                  "values": {
+                     "temperature": 32.03
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T11:00:00Z",
+                  "values": {
+                     "temperature": 32.69
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T12:00:00Z",
+                  "values": {
+                     "temperature": 32.75
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T13:00:00Z",
+                  "values": {
+                     "temperature": 32.14
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T14:00:00Z",
+                  "values": {
+                     "temperature": 30.92
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T15:00:00Z",
+                  "values": {
+                     "temperature": 29.6
+                  }
+               },
+               {
+                  "startTime": "2021-09-18T16:00:00Z",
+                  "values": {
+                     "temperature": 26.58
+                  }
+               }
+            ]
+         }
+      ]
+   }
+}

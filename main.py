@@ -54,8 +54,8 @@ List_of_warm_files = []  # same for the Warm folder
 
 """Gets all the files in the cool and warm walls dir and stored them in a list"""
 
-List_of_cool_files.append(os.listdir(f"{DRIVE_LETTER.upper()}:/Users/{user}/Desktop/WeatherWall/walls/Cool"))
-List_of_warm_files.append(os.listdir(f"{DRIVE_LETTER.upper()}:/Users/{user}/Desktop/WeatherWall/walls/Warm"))
+List_of_cool_files.append(os.listdir(f"C:/Users/{user}/Desktop/WeatherWall/walls/Cool"))
+List_of_warm_files.append(os.listdir(f"C:/Users/{user}/Desktop/WeatherWall/walls/Warm"))
 
 print(f"Warm dir --> {List_of_warm_files}")
 print(f"Cool dir --> {List_of_cool_files}")
@@ -147,13 +147,6 @@ def random(array_of_images: list):
     return random_image
 
 
-def random2(array_of_cools: list):
-    random_file = choice(array_of_cools)
-    random_image = choice(random_file)
-
-    return random_image
-
-
 """Now the main part comes for manipulating the desktop wallpaper according to the temperature"""
 
 
@@ -211,7 +204,7 @@ def main(state: bool, time_interval: float):
         now = dt.now()
         current_time = now.strftime("%H:%M %p")
 
-        manipulate(get_the_temp_now("temperature.json", "r"), str(random(List_of_warm_files)), str(random2(List_of_cool_files)))
+        manipulate(get_the_temp_now("temperature.json", "r"), str(random(List_of_warm_files)), str(random(List_of_cool_files)))
         print(str(get_the_temp_now("temperature.json", "r")) + f" Degrees Celsius.\n Current-time: {current_time} ")
         time.sleep(time_interval)
 
